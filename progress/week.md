@@ -5,5 +5,6 @@
 - API endpoint documentation
 
 ## Completed This Week
+- 2026-05-05: wrapped up spike on new library
 - Initial project setup
 - Defined scope and goals
