@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Observability dashboard to backlog
 - Refactor config loading
 - Add logging middleware
 - Update dependencies
