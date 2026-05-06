@@ -2,6 +2,6 @@
   "version": "0.1.0",
   "debug": true,
   "log_level": "info",
-  "max_retries": 3,
+  "max_retries": 4,
   "timeout_seconds": 30
 }
