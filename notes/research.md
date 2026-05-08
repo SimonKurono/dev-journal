@@ -9,3 +9,4 @@
 - [ ] document async task queue behavior
 - [ ] add observations on thread safety
 - [ ] document caching layer trade-offs
+- [ ] note findings from load testing
