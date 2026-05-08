@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Batch processing support to backlog
 - Cache invalidation strategy to backlog
 - Observability dashboard to backlog
 - Refactor config loading
