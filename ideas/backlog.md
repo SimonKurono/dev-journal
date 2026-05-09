@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Cache invalidation strategy to backlog
 - Observability dashboard to backlog
 - Refactor config loading
 - Add logging middleware
