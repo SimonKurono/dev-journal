@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Rate limit per-user to high priority
 - Batch processing support to backlog
 - Cache invalidation strategy to backlog
 - Observability dashboard to backlog
