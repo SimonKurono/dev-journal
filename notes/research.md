@@ -11,3 +11,4 @@
 - [ ] document caching layer trade-offs
 - [ ] note findings from load testing
 - [ ] record thoughts on dependency injection
+- [ ] add notes on rate limiting strategies
