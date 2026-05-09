@@ -14,3 +14,4 @@
 - [ ] add notes on rate limiting strategies
 - [ ] note findings from load testing
 - [ ] summarize performance profiling results
+- [ ] capture thoughts on schema versioning
