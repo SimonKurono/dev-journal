@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Legacy cleanup to current sprint
 - Rate limit per-user to high priority
 - Batch processing support to backlog
 - Cache invalidation strategy to backlog
