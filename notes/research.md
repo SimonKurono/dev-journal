@@ -15,3 +15,4 @@
 - [ ] note findings from load testing
 - [ ] summarize performance profiling results
 - [ ] capture thoughts on schema versioning
+- [ ] note findings from load testing
