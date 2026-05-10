@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "debug": true,
+  "debug": false,
   "log_level": "info",
   "max_retries": 4,
   "timeout_seconds": 20
