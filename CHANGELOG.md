@@ -3,6 +3,7 @@
 All notable changes to this project will be documented here.
 
 ## [Unreleased]
+- `2026-05-09` docs: add inline comments to complex sections
 - `2026-05-09` test: add unit tests for edge cases
 - `2026-05-08` docs: update API endpoint documentation
 - `2026-05-06` chore: update dependency versions
