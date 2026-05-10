@@ -5,6 +5,7 @@
 - API endpoint documentation
 
 ## Completed This Week
+- 2026-05-09: improved error messages for edge cases
 - 2026-05-08: improved error messages for edge cases
 - 2026-05-08: cleaned up dead code in utils
 - 2026-05-06: resolved merge conflicts in config branch
