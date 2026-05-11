@@ -3,6 +3,7 @@
 All notable changes to this project will be documented here.
 
 ## [Unreleased]
+- `2026-05-11` feat: expose debug flag via config
 - `2026-05-10` docs: add inline comments to complex sections
 - `2026-05-10` fix: correct off-by-one in page counter
 - `2026-05-10` feat: add retry backoff for failed requests
