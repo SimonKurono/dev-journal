@@ -18,3 +18,4 @@
 - [ ] note findings from load testing
 - [ ] summarize performance profiling results
 - [ ] record observations on memory usage
+- [ ] capture notes on database indexing
