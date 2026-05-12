@@ -19,3 +19,4 @@
 - [ ] summarize performance profiling results
 - [ ] record observations on memory usage
 - [ ] capture notes on database indexing
+- [ ] document error handling strategies
