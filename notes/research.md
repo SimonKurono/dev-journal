@@ -20,3 +20,4 @@
 - [ ] record observations on memory usage
 - [ ] capture notes on database indexing
 - [ ] document error handling strategies
+- [ ] add notes on retry logic patterns
