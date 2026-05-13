@@ -22,3 +22,4 @@
 - [ ] document error handling strategies
 - [ ] add notes on retry logic patterns
 - [ ] record observations on memory usage
+- [ ] document async task queue behavior
