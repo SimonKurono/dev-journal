@@ -24,3 +24,4 @@
 - [ ] record observations on memory usage
 - [ ] document async task queue behavior
 - [ ] note findings from load testing
+- [ ] record observations on memory usage
