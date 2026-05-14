@@ -23,3 +23,4 @@
 - [ ] add notes on retry logic patterns
 - [ ] record observations on memory usage
 - [ ] document async task queue behavior
+- [ ] note findings from load testing
