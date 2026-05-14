@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "debug": true,
-  "log_level": "info",
+  "log_level": "warn",
   "max_retries": 3,
   "timeout_seconds": 30
 }
