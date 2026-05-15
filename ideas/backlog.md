@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Rate limit per-user to high priority
 - Input validation to high priority
 - Rate limit per-user to high priority
 - Batch processing support to backlog
