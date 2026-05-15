@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Cache invalidation strategy to backlog
 - Rate limit per-user to high priority
 - Input validation to high priority
 - Rate limit per-user to high priority
