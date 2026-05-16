@@ -28,3 +28,4 @@
 - [ ] document error handling strategies
 - [ ] note findings from load testing
 - [ ] note findings from load testing
+- [ ] document caching layer trade-offs
