@@ -27,3 +27,4 @@
 - [ ] record observations on memory usage
 - [ ] document error handling strategies
 - [ ] note findings from load testing
+- [ ] note findings from load testing
