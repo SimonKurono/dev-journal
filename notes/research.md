@@ -30,3 +30,4 @@
 - [ ] note findings from load testing
 - [ ] document caching layer trade-offs
 - [ ] add observations on thread safety
+- [ ] document async task queue behavior
