@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Webhook retry mechanism to ideas
 - Cache invalidation strategy to backlog
 - Rate limit per-user to high priority
 - Input validation to high priority
