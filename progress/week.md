@@ -5,6 +5,7 @@
 - API endpoint documentation
 
 ## Completed This Week
+- 2026-05-18: finished code review for auth module
 - 2026-05-17: resolved merge conflicts in config branch
 - 2026-05-14: finished first pass on API docs
 - 2026-05-13: unblocked pipeline bottleneck
