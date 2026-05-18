@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Legacy cleanup to current sprint
 - Data export feature to ideas
 - Webhook retry mechanism to ideas
 - Cache invalidation strategy to backlog
