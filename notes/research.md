@@ -32,3 +32,4 @@
 - [ ] add observations on thread safety
 - [ ] document async task queue behavior
 - [ ] capture notes on database indexing
+- [ ] capture API pagination findings
