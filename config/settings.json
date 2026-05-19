@@ -3,5 +3,5 @@
   "debug": true,
   "log_level": "warn",
   "max_retries": 3,
-  "timeout_seconds": 30
+  "timeout_seconds": 20
 }
