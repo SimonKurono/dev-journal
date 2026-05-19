@@ -6,6 +6,7 @@
 - Write integration tests
 
 ## Medium Priority
+- Cache invalidation strategy to backlog
 - Request tracing to medium priority
 - Legacy cleanup to current sprint
 - Data export feature to ideas
