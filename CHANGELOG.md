@@ -3,6 +3,7 @@
 All notable changes to this project will be documented here.
 
 ## [Unreleased]
+- `2026-05-18` test: improve integration test coverage
 - `2026-05-17` fix: handle empty response gracefully
 - `2026-05-17` fix: correct off-by-one in page counter
 - `2026-05-16` fix: handle empty response gracefully
