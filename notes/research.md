@@ -33,3 +33,4 @@
 - [ ] document async task queue behavior
 - [ ] capture notes on database indexing
 - [ ] capture API pagination findings
+- [ ] summarize performance profiling results
