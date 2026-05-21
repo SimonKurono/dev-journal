@@ -3,6 +3,7 @@
 All notable changes to this project will be documented here.
 
 ## [Unreleased]
+- `2026-05-20` feat: add retry backoff for failed requests
 - `2026-05-19` fix: resolve null pointer in data parser
 - `2026-05-18` test: improve integration test coverage
 - `2026-05-17` fix: handle empty response gracefully
